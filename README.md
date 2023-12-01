@@ -3,7 +3,7 @@ Study notes
 <h2>Resources</h2>
 <p>
   <ul>
-    <li></li>
+    <li>https://kubernetes.io/docs/tutorials/kubernetes-basics/</li>
     <li></li>
     <li></li>
     <li></li>
