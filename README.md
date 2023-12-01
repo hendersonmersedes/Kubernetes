@@ -4,14 +4,14 @@ Study notes
 <p>
   <ul>
     <li>https://kubernetes.io/docs/tutorials/kubernetes-basics/</li>
-    <li></li>
+    <li>https://www.freecodecamp.org/news/the-kubernetes-handbook/</li>
     <li></li>
     <li></li>
     <li></li>
     <li></li>
   </ul>
 </p>
-
+<p><a href=""></a></p>
 <h2>What is Kubernetes?</h2>
 <p>
   <ul>
