@@ -16,6 +16,7 @@ Study notes
     <li>Help you manage thousands of applications</li>
     <li>Provides high availability, scalability, and disaster recovery</li>
     <li>Can be deployed on either physical or virtual machines</li>
+    <li>Kubernetes places containers into Pods to run on Nodes.</li>
   </ul>
 </p>
 
@@ -33,7 +34,12 @@ Study notes
   </p>
     </ul>
     <ul>
-    <li>Node</li>
+    <li>Node: Virtual or physical machine managed by the control plane.Components of the node: kubelet, container runtime, kube-proxy. The name of a Node, must be a valid DNS subdomain name. You can create and modify node objects using kubectl.</li>
+      <p>
+        <ul>
+          <li>Container Runtime Interface (CRI) - plugin interface which enables the kubelet to use a wide variety of container runtimes. One is needed on each node in your cluster.</li>
+        </ul>
+      </p>
     </ul>
   </ul>
 </p>
