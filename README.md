@@ -11,7 +11,7 @@ Study notes
     <li></li>
   </ul>
 </p>
-<p><a href=""></a></p>
+<p><img src="kubernetescluster.png"></p>
 <h2>What is Kubernetes?</h2>
 <p>
   <ul>
