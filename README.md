@@ -6,6 +6,7 @@ Study notes
     <li>https://kubernetes.io/docs/tutorials/kubernetes-basics/</li>
     <li>https://www.freecodecamp.org/news/the-kubernetes-handbook/</li>
     <li>https://youtu.be/s_o8dwzRlu4?si=0ETpts53_m0569nG</li>
+    <li>https://roadmap.sh/kubernetes</li>
   </ul>
 </p>
 <p><img src="kubernetescluster.png"></p>
