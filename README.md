@@ -5,10 +5,7 @@ Study notes
   <ul>
     <li>https://kubernetes.io/docs/tutorials/kubernetes-basics/</li>
     <li>https://www.freecodecamp.org/news/the-kubernetes-handbook/</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>https://youtu.be/s_o8dwzRlu4?si=0ETpts53_m0569nG</li>
   </ul>
 </p>
 <p><img src="kubernetescluster.png"></p>
