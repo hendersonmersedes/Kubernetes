@@ -15,13 +15,14 @@ Study notes
     <li>Kubernetes or K8, is an open source container orchestrator tool</li>
     <li>Help you manage thousands of applications</li>
     <li>Provides high availability, scalability, and disaster recovery</li>
+    <li>Can be deployed on either physical or virtual machines</li>
   </ul>
 </p>
 
 <h2>Kubernetes Architecture</h2>
 <p>
   <ul>
-    <li>Control Plane</li>
+    <li>Control Plane - Manages the cluster and the nodes that are used to host the running applications</li>
     <p>
     <ul>
       <li>API Server - This is the entry point to K8s cluster</li>
