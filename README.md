@@ -12,11 +12,11 @@ Study notes
 <h2>What is Kubernetes?</h2>
 <p>
   <ul>
-    <li>Kubernetes or K8, is an open source container orchestrator tool</li>
-    <li>Help you manage thousands of applications</li>
+    <li>Kubernetes or K8s, is an open source container orchestrator tool</li>
+    <li>Helps you manage thousands of applications</li>
     <li>Provides high availability, scalability, and disaster recovery</li>
     <li>Can be deployed on either physical or virtual machines</li>
-    <li>Kubernetes places containers into Pods to run on Nodes.</li>
+    <li>Places containers into Pods to run on Nodes.</li>
   </ul>
 </p>
 
