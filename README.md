@@ -50,9 +50,15 @@ Study notes
     <li>Node: Virtual or physical machine managed by the control plane.Components of the node: kubelet, container runtime, kube-proxy. The name of a Node, must be a valid DNS subdomain name. You can create and modify node objects using kubectl.</li>
       <p>
         <ul>
+          <li>Master Node & Worker Node</li>
+            <ul>
+              <li>Worker Node: Hosts containers, CRI-O, kubelet</li>
+              <li>Master Node: kube-apiserver, etcd, controller, scheduler</li>
+            </ul>
           <li>Container Runtime Interface (CRI) - plugin interface which enables the kubelet to use a wide variety of container runtimes. One is needed on each node in your cluster.</li>
           <li>kubelet - agent that runs on each node</li>
           <li>kube-proxy - network proxy that runs on each node in your cluster. The proxy maintains network runs on nodes and allows communication to Pods fron inside and outside of the cluster</li>
+          <li>kubectl - deploys and manages applications on a K8s cluster.</li>
         </ul>
       </p>
     </ul>
