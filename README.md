@@ -8,6 +8,7 @@ Study notes
     <li>https://youtu.be/s_o8dwzRlu4?si=0ETpts53_m0569nG</li>
     <li>https://roadmap.sh/kubernetes</li>
     <li>Kubernetes for Absolute Beginners by Mumshad Mannambeth</li>
+    <li>Kubernetes Example: https://github.com/kodekloudhub/example-voting-app-kubernetes</li>
   </ul>
 </p>
 <p><img src="kubernetescluster.png"></p>
@@ -62,5 +63,17 @@ Study notes
         </ul>
       </p>
     </ul>
+  </ul>
+</p>
+<h2>KodeKloud Lab</h2>
+<p>
+  <ul>
+      <li>I started out by logging into the Google cloud platform and navigated to the Kubernetes Engine.</li>
+      <li>Since this was my first time creating a resource in GCP, I was given a low cost Cluster to use.</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
   </ul>
 </p>
