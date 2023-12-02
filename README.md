@@ -7,7 +7,7 @@ Study notes
     <li>https://www.freecodecamp.org/news/the-kubernetes-handbook/</li>
     <li>https://youtu.be/s_o8dwzRlu4?si=0ETpts53_m0569nG</li>
     <li>https://roadmap.sh/kubernetes</li>
-    <li>Kubernete for Absolute Beginners by Mumshad Mannambeth</li>
+    <li>Kubernetes for Absolute Beginners by Mumshad Mannambeth</li>
   </ul>
 </p>
 <p><img src="kubernetescluster.png"></p>
