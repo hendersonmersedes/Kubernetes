@@ -7,9 +7,20 @@ Study notes
     <li>https://www.freecodecamp.org/news/the-kubernetes-handbook/</li>
     <li>https://youtu.be/s_o8dwzRlu4?si=0ETpts53_m0569nG</li>
     <li>https://roadmap.sh/kubernetes</li>
+    <li>Kubernete for Absolute Beginners by Mumshad Mannambeth</li>
   </ul>
 </p>
 <p><img src="kubernetescluster.png"></p>
+<h2>Why Containers?</h2>
+<p>
+  <ul>
+    <li>Containers are independent environments with their own networking and mounts just like VMs but they share the same Kernel.</li>
+    <li>Containers allows you to modify components without having to modify the underlying OS.</li>
+    <li>Docker containerizes applications to ship and run them. Docker containers are lightweight and fast.</li>
+    <li>Docker image - a package or template used to create containers.</li>
+  </ul>
+</p>
+
 <h2>What is Kubernetes?</h2>
 <p>
   <ul>
