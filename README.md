@@ -1,5 +1,5 @@
 # Kubernetes
-Study notes
+### Study notes and lab work in preparation for the CKA exam
 <h2>Resources</h2>
 <p>
   <ul>
