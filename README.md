@@ -65,15 +65,23 @@ Study notes
     </ul>
   </ul>
 </p>
-<h2>KodeKloud Lab</h2>
+        
+  -------------------------------------------------------------------------------------------------------------------------      
+  -------------------------------------------------------------------------------------------------------------------------      
+        
+  <h2>KodeKloud Lab</h2>
 <p>
   <ul>
-      <li>I started out by logging into the Google cloud platform and navigated to the Kubernetes Engine.</li>
-      <li>Since this was my first time creating a resource in GCP, I was given a low cost Cluster to use.</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Log into the Google cloud platform and navigate to the Kubernetes Engine.</li>
+    <p><img src="Screenshot 2023-12-01 215658.png"></p>
+    <li>Since this was my first time creating a resource in GCP, I was given a low cost Cluster to use.</li>
+    
+<p><img src="Screenshot 2023-12-01 215903.png"></p>
+<p><img src="Screenshot 2023-12-01 222450.png"></p>
+<p><img src="Screenshot 2023-12-01 222532.png"></p>
+<p><img src="Screenshot 2023-12-01 225117.png"></p>
+<p><img src="Screenshot 2023-12-01 230416.png"></p>
+<p><img src="Screenshot 2023-12-01 230755.png"></p>
+<p><img src="Screenshot 2023-12-01 230908.png"></p>
   </ul>
 </p>
