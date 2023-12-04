@@ -8,7 +8,7 @@
     <li>https://youtu.be/s_o8dwzRlu4?si=0ETpts53_m0569nG</li>
     <li>https://roadmap.sh/kubernetes</li>
     <li>Kubernetes for Absolute Beginners by Mumshad Mannambeth</li>
-    <li>Kubernetes Example: https://github.com/kodekloudhub/example-voting-app-kubernetes</li>
+    <li>Kubernetes code: https://github.com/kodekloudhub/example-voting-app-kubernetes</li>
   </ul>
 </p>
 <p><img src="kubernetescluster.png"></p>
