@@ -106,9 +106,14 @@
     <p></p>
       <li>Not pictured: We are going to use "git clone" to clone the GitHub repository that has all of our YAML files and then navigate to the folder where the files are stored.</li>
     <p></p>
-        <li>After navigating to the correct directory, we're going to use "kubectl get deployments, svc"</li>
-<p><img src="Screenshot 2023-12-01 230416.png"></p>
-<p><img src="Screenshot 2023-12-01 230755.png"></p>
-<p><img src="Screenshot 2023-12-01 230908.png"></p>
+        <li>After navigating to the correct directory, we're going to use "kubectl get deployments, svc". This will show us the status of the Pods.</li>
+    <p></p>
+    <p></p>
+    <li>Minimize the cloud shell and open up the side bar to check on Services. From here we can also see the status of the Pods.</li>
+    <p></p>
+    <p></p>
+<img src="Screenshot 2023-12-01 230416.png">
+<img src="Screenshot 2023-12-01 230755.png">
+<img src="Screenshot 2023-12-01 230908.png">
   </ul>
 </p>
