@@ -73,10 +73,11 @@
 <p>
   <ul>
       <li>Log into the Google cloud platform and navigate to the Kubernetes Engine.</li>
-    <p><img src="Screenshot 2023-12-01 215658.png"></p>
+    <p></p>
+      <img src="Screenshot 2023-12-01 215658.png">
     <li>Since this was my first time creating a resource in GCP, I was given a low cost Cluster to use.</li>
-    
-<p><img src="Screenshot 2023-12-01 215903.png"></p>
+  <p></p>
+  <img src="Screenshot 2023-12-01 215903.png">
 <p><img src="Screenshot 2023-12-01 222450.png"></p>
 <p><img src="Screenshot 2023-12-01 222532.png"></p>
 <p><img src="Screenshot 2023-12-01 225117.png"></p>
