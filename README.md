@@ -109,11 +109,20 @@
         <li>After navigating to the correct directory, we're going to use "kubectl get deployments, svc". This will show us the status of the Pods.</li>
     <p></p>
     <p></p>
-    <li>Minimize the cloud shell and open up the side bar to check on Services. From here we can also see the status of the Pods.</li>
-    <p></p>
     <p></p>
 <img src="Screenshot 2023-12-01 230416.png">
+    <p></p>
+    <p></p>
+    <li>Minimize the cloud shell and open up the side bar to check on Services. From here we can also see the status of the Pods.</li>
 <img src="Screenshot 2023-12-01 230755.png">
+    <p></p>
+    <p></p>
+    <li>After clicking on the IP addresses for your PODs, a new window opens and you should be taken to your application. </li>
 <img src="Screenshot 2023-12-01 230908.png">
+    <p></p>
+    <p></p>
   </ul>
 </p>
+
+
+<h2>There you have it! Your first successful Kubernetes cluster in Google Cloud.</h2>
