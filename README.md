@@ -74,12 +74,38 @@
   <ul>
       <li>Log into the Google cloud platform and navigate to the Kubernetes Engine.</li>
     <p></p>
+    <p></p>
       <img src="Screenshot 2023-12-01 215658.png">
     <li>Since this was my first time creating a resource in GCP, I was given a low cost Cluster to use.</li>
-  <p></p>
+   <p></p>
+    <p></p>
+    <li>Once you're on the Kubernetes Engine console, The creator tool walks you through setting up your first cluster. After 5-10 min, you will have successfully created the Kubernetes cluster.</li>
+    <p></p>
+    <p></p>
+    <p></p>
+    <li>Select your cluster and right-click on the 3 dots at the far right-hand side of the screen. Choose "CONNECT"</li>
+    <p></p>
+    <p></p>
   <img src="Screenshot 2023-12-01 215903.png">
+    <p></p>
+    <p></p>
+    <p></p>
+    <li>A new window will pop up asking for command-line access or cloud console. Select "Run in Cloud Shell"</li>
+    <p></p>
+    <p></p>
 <p><img src="Screenshot 2023-12-01 222450.png"></p>
+    <p></p>
+    <p></p>
+    <li>The command line will pop up with the command already entered to run the cluster. Press "ENTER". After the command runs, run the command "kubectl get nodes" to list the nodes in your cluster. </li>
+    <p></p>
+    <p></p>
 <p><img src="Screenshot 2023-12-01 222532.png"></p>
+    <p></p>
+    <p></p>
+    <li>Not pictured: We are going to use "git clone" to clone the GitHub repository that has all of our YAML files and then navigate to the folder where the files are stored.</li>
+    <p></p>
+    <p></p>
+    <li>After navigating to the correct directory, we're going to use "kubectl get deployments, svc"</li>
 <p><img src="Screenshot 2023-12-01 225117.png"></p>
 <p><img src="Screenshot 2023-12-01 230416.png"></p>
 <p><img src="Screenshot 2023-12-01 230755.png"></p>
