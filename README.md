@@ -11,6 +11,10 @@
     <li>Kubernetes code: https://github.com/kodekloudhub/example-voting-app-kubernetes</li>
   </ul>
 </p>
+
+<h2>My CKA Study Sheet</h2>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUEuv1AoIokTIZSew3lUF2sm0DvJSgIecA9FP4Ii997EzDssliNwZor0TV4KVfcUvK-gkBsz7Loqi5/pubhtml?gid=1115838130&single=true">Download Your Copy Here</a>
+<p></p>
 <p><img src="kubernetescluster.png"></p>
 <h2>Why Containers?</h2>
 <p>
